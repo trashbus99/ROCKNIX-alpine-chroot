@@ -2,7 +2,7 @@
 
 **Tested on:**  
 - Powkiddy X55  
-- H700 (Community Build)  
+- RG35XX H H700  (Community Build)  
 
 This guide helps you set up Alpine Linux in a chroot environment and install **Neofetch** for system info display.
 
