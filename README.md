@@ -10,7 +10,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **N
 
 ## Quick Start Guide  
 
-### Steps to Add Neofetch  
+### Example: Steps to Add Neofetch  
 
 1. **Run the following command in your shell to set up Alpine:**  
     ```
