@@ -38,8 +38,8 @@ This guide helps you set up Alpine Linux in a chroot environment and install **N
     ```
     Add the following lines to the file:  
     ```
-    https://dl-cdn.alpinelinux.org/alpine/v3.19/main
-    https://dl-cdn.alpinelinux.org/alpine/v3.19/community
+    https://dl-cdn.alpinelinux.org/alpine/v3.21/main
+    https://dl-cdn.alpinelinux.org/alpine/v3.21/community
     ```
 
 6. **Update the package index again:**  
