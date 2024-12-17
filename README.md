@@ -10,7 +10,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **N
 
 ## Quick Start Guide  
 
-### Example: Steps to Add Neofetch  
+### Example: Steps to Add fastfetch  
 
 1. **Run the following command in your shell to set up Alpine:**  
     ```
@@ -54,7 +54,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **N
 
 8. **Run Neofetch to display system info:**  
     ```
-    neofetch
+    fastfetch
     ```
 
 ---
