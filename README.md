@@ -14,7 +14,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **N
 
 1. **Run the following command in your shell to set up Alpine:**  
     ```
-    curl -L https://github.com/trashbus99/ROCKNIX-alpinechroot/raw/main/start-alpine.sh | bash
+    curl -L https://github.com/trashbus99/ROCKNIX-alpine-chroot/raw/main/start-alpine.sh | bash
     ```
 
 2. **Enter the chroot environment:**  
