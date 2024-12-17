@@ -49,7 +49,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **F
 
 7. **Install Neofetch:**  
     ```
-    apk add neofetch
+    apk add fastfetch
     ```
 
 8. **Run Neofetch to display system info:**  
