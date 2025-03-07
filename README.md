@@ -36,7 +36,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **F
     ```
     nano /etc/apk/repositories
     ```
-    Add the following lines to the file, save, and exit:  
+    Comment out the first repo, add the following lines to the file, save, and exit:  
     ```
     https://dl-cdn.alpinelinux.org/alpine/v3.21/main
     https://dl-cdn.alpinelinux.org/alpine/v3.21/community
@@ -44,7 +44,7 @@ This guide helps you set up Alpine Linux in a chroot environment and install **F
 
 6. **Update the package index again:**  
     ```
-    apk update
+    apk update && apk upgrade
     ```
 
 7. **Install Neofetch:**  
