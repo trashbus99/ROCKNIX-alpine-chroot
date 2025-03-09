@@ -3,7 +3,8 @@
 **Tested on:**  
 - Powkiddy X55 RK3566
 - RG35XX H H700  (Community Build)
-- Orange Pi 5 pro 
+- Orange Pi 5 pro
+- Odin 2
 
 This guide helps you set up Alpine Linux in a chroot environment and install **Fastfetch** for system info display.
 
