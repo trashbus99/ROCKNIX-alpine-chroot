@@ -8,6 +8,10 @@
 
  Rockchip devices tend to work better with Panfrost drivers for 2D destkop type apps.
 
+
+
+
+
 This guide helps you set up Alpine Linux in a chroot environment and install **Fastfetch** for system info display.
 
 ---
