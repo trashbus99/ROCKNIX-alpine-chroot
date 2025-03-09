@@ -6,7 +6,7 @@
 - Orange Pi 5 pro
 - Odin 2
 
- Rockchip devices tend to work better with Panfrost drivers for 2D destkop type apps.
+ Rockchip devices tend to work better with Panfrost drivers for 2D desktop type apps.
 
 
 
